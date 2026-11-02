@@ -1,2 +1,9 @@
-css/style.less
-index.html
+.env
+node_modules
+.next
+out
+coverage
+next-env.d.ts
+*.tsbuildinfo
+.vercel
+image-report.json
